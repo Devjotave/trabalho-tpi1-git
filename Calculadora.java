@@ -15,6 +15,7 @@ public class Calculadora {
     }
 
     // Método principal para testar
+    // Comentário adicionado antes do main
     public static void main(String[] args) {
         Calculadora calc = new Calculadora();
 
